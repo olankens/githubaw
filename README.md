@@ -1,3 +1,5 @@
+<hr>
+
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.svg">
@@ -10,7 +12,6 @@
 <hr>
 
 <h3 align="center">Getting Started</h3>
-
 <p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
 
 ```shell
@@ -20,18 +21,20 @@
 <hr>
 
 <h3 align="center">Phone Preview</h3>
-
 <p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture>
 
 <hr>
 
 <h3 align="center">Watch Preview</h3>
-
 <p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="24.0625%"></picture>
+
 
 <hr>
 
 <h3 align="center">Television Preview</h3>
-
 <p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset=".assets/television-dark.svg"><img src=".assets/television.svg" width="100%"></picture>
 
+<hr>
