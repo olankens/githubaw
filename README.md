@@ -6,7 +6,9 @@
         <img src=".assets/icon.svg" height="132">
     </picture>
     <h1><samp>GITHUBAW</samp></h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In egestas luctus neque, a interdum quam vestibulum eget. Suspendisse magna diam, finibus rutrum feugiat non, tincidunt id purus. Donec felis nunc, finibus in tincidunt in, tincidunt at nulla. Nam elementum velit ut lectus vulputate, non accumsan est auctor.</p>
+    <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a>
+    <hr>
+    <p>This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.</p>
 </div>
 
 <hr>
