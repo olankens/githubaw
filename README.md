@@ -57,3 +57,43 @@
 ```shell
 ...
 ```
+
+---
+
+<h3 align="center">Create Something</h3>
+
+<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+
+```shell
+...
+```
+
+---
+
+<h3 align="center">Read Something</h3>
+
+<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+
+```shell
+...
+```
+
+---
+
+<h3 align="center">Update Something</h3>
+
+<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+
+```shell
+...
+```
+
+---
+
+<h3 align="center">Delete Something</h3>
+
+<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+
+```shell
+...
+```
