@@ -11,16 +11,6 @@
 
 ---
 
-<h3 align="center">Getting Started</h3>
-
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
-
-```shell
-...
-```
-
----
-
 <h3 align="center">Our Sponsors</h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture>
@@ -48,3 +38,13 @@
 <p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/television-dark.svg"><img src=".assets/television.svg" width="49.375%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/television-dark.svg"><img src=".assets/television.svg" width="49.375%"></picture>
+
+---
+
+<h3 align="center">Getting Started</h3>
+
+<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+
+```shell
+...
+```
