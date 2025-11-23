@@ -11,58 +11,48 @@
 
 ---
 
-<h3 align="center">The Stack</h3>
+### The Stack
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture>
 
 ---
 
-<h3 align="center">Phone Preview</h3>
+### Phone Preview
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/phone-dark.svg"><img src=".assets/phone.svg" width="24.0625%"></picture>
 
 ---
 
-<h3 align="center">Watch Preview</h3>
+### Watch Preview
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="32.5%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="32.5%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/watch-dark.svg"><img src=".assets/watch.svg" width="32.5%"></picture>
 
 ---
 
-<h3 align="center">Tablet Preview</h3>
+### Tablet Preview
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/tablet-dark.svg"><img src=".assets/tablet.svg" width="49.375%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/tablet-dark.svg"><img src=".assets/tablet.svg" width="49.375%"></picture>
 
 ---
 
-<h3 align="center">Television Preview</h3>
+### Television Preview
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/television-dark.svg"><img src=".assets/television.svg" width="100%"></picture>
 
 
 ---
 
-<h3 align="center">Getting Started</h3>
+### Getting Started
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
-
-```shell
-...
-```
-
----
-
-<h3 align="center">Create Something</h3>
-
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 ```shell
 ...
@@ -70,19 +60,9 @@
 
 ---
 
-<h3 align="center">Read Something</h3>
+### Create Something
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
-
-```shell
-...
-```
-
----
-
-<h3 align="center">Update Something</h3>
-
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 ```shell
 ...
@@ -90,9 +70,29 @@
 
 ---
 
-<h3 align="center">Delete Something</h3>
+### Read Something
 
-<p align="center">Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.</p>
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
+
+```shell
+...
+```
+
+---
+
+### Update Something
+
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
+
+```shell
+...
+```
+
+---
+
+### Delete Something
+
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
 ```shell
 ...
