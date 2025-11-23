@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">Our Sponsors</h3>
+<h3 align="center">The Stack</h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture>
 
