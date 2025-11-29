@@ -4,39 +4,33 @@
 
 This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.
 
-## Phone Preview
+---
+
+### Phone Preview
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
-## Watch Preview
+---
+
+### Watch Preview
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
-## Tablet Preview
+---
+
+### Tablet Preview
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
-## Television Preview
+---
+
+### Television Preview
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
-## Getting Started
+---
 
-Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
-
-```shell
-...
-```
-
-## Create Something
-
-Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
-
-```shell
-...
-```
-
-## Read Something
+### Getting Started
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
@@ -44,7 +38,9 @@ Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et lib
 ...
 ```
 
-## Update Something
+---
+
+### Create Something
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
@@ -52,7 +48,29 @@ Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et lib
 ...
 ```
 
-## Delete Something
+---
+
+### Read Something
+
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
+
+```shell
+...
+```
+
+---
+
+### Update Something
+
+Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
+
+```shell
+...
+```
+
+---
+
+### Delete Something
 
 Phasellus tristique laoreet condimentum. Praesent ligula lacus, elementum et libero at, tempus tincidunt nulla. In hac habitasse platea dictumst. Aliquam vitae ullamcorper mauris. Integer tincidunt sem vel sollicitudin ultrices.
 
