@@ -1,8 +1,13 @@
-# <samp>GITHUBAW</samp>
-
-![](PICTURE.jpg)
-
-This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.svg">
+        <img src=".assets/icon.svg" height="132">
+    </picture>
+    <h1><samp>GITHUBAW</samp></h1>
+    <a href="#">Website</a> · <a href="#">Documentation</a> · <a href="#">Discord</a>
+    <hr>
+    <p>This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.</p>
+</div>
 
 ---
 
