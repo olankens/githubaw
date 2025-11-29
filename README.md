@@ -1,8 +1,10 @@
-# <samp>GITHUBAW</samp>
+<!-- # <samp>GITHUBAW</samp> -->
 
 <!-- ![](PICTURE.jpg) -->
 
-<h2><img src="PICTURE.jpg" width="100%"></h2>
+<h1><img src="PICTURE.jpg" width="100%"></h1>
+
+# <samp>GITHUBAW</samp>
 
 This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.
 
