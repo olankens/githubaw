@@ -1,14 +1,10 @@
 # <samp>GITHUBAW</samp>
 
-![](PICTURE.jpg)
+<!-- ![](PICTURE.jpg) -->
+
+<h2><img src="PICTURE.jpg" width="100%"></h2>
 
 This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.
-
----
-
-### The Stack
-
-<picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture><img src=".assets/1x1.gif" width="1.25%"/><picture><source media="(prefers-color-scheme: dark)" srcset=".assets/square-dark.svg"><img src=".assets/square.svg" width="15.625%"></picture>
 
 ---
 
